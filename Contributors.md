@@ -93,6 +93,7 @@
 - [Ahmed Magdy](https://github.com/bugz8)
 - [Robin Carey](https://github.com/robs179)
 - [botoko]
+- [Olususi Victor Mayowa](https://github.com/vikthour01)
 - [AlexJJGreen](https://github.com/AlexJJGreen)
 - [Yan Tang](https://github.com/yantang01)
 - [Vidhya Lakshmi](https://github.com/vid-27)
